@@ -22,7 +22,7 @@ struct Iso639Mapping {
 };
 static constexpr Iso639Mapping kIso639Mappings[] = {
     {"eng", "en"}, {"fra", "fr"}, {"fre", "fr"}, {"deu", "de"}, {"ger", "de"},
-    {"rus", "ru"}, {"spa", "es"}, {"ita", "it"}, {"ukr", "uk"},
+    {"rus", "ru"}, {"spa", "es"}, {"ita", "it"}, {"ukr", "uk"}, {"swe", "sv"}
 };
 
 // Maps a BCP-47 or ISO 639-2 language tag to a language-specific hyphenator.
